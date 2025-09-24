@@ -79,6 +79,6 @@ The goal is to understand patterns, impacts (including COVID-19), and derive mea
 ## Author
 
 - Name: Yashvi 
-- Internship: CodeAlpha  
 - Domain: Data Science 
+
 
